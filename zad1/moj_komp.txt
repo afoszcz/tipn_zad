@@ -1,4 +1,4 @@
-pjemnoœæ dysku: 1000GB
-iloœæ pamiêci RAM:4GB
-rodzaj i prêdkoœæ procesora: intel core i3 2GHz
+pjemnoÅ›Ä‡ dysku: 1000GB
+iloÅ›Ä‡ pamiÄ™ci RAM:4GB
+rodzaj i prÄ™dkoÅ›Ä‡ procesora: intel core i3 2GHz
 system: 64-bitowy
